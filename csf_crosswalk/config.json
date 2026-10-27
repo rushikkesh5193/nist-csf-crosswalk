@@ -1,0 +1,6 @@
+{
+  "status_credit": {"implemented": 1.0, "partial": 0.5, "planned": 0.0, "not_implemented": 0.0},
+  "indicative_tier_min_coverage": {"2": 30, "3": 65, "4": 95},
+  "default_target_tier": 3,
+  "declared_tier_margin": 1
+}

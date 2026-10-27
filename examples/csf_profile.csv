@@ -1,0 +1,23 @@
+Category,Function,Name,Mapped controls,Applicable,Coverage %,Current tier,Basis,Target tier,Gap
+GV.OC,Govern,Organizational Context,2,2,100.0,4,indicative,3,0
+GV.RM,Govern,Risk Management Strategy,1,0,,,indicative,3,
+GV.RR,Govern,"Roles, Responsibilities, and Authorities",6,6,100.0,4,indicative,3,0
+GV.PO,Govern,Policy,3,3,100.0,4,indicative,3,0
+GV.OV,Govern,Oversight,2,2,100.0,4,indicative,3,0
+GV.SC,Govern,Cybersecurity Supply Chain Risk Management,6,5,80.0,3,indicative,2,0
+ID.AM,Identify,Asset Management,3,3,100.0,4,indicative,3,0
+ID.RA,Identify,Risk Assessment,3,3,83.3,3,indicative,3,0
+ID.IM,Identify,Improvement,1,1,0.0,3,declared,3,0
+PR.AA,Protect,"Identity Management, Authentication, and Access Control",13,13,100.0,4,indicative,3,0
+PR.AT,Protect,Awareness and Training,1,1,0.0,,indicative,3,
+PR.DS,Protect,Data Security,15,15,100.0,4,indicative,3,0
+PR.PS,Protect,Platform Security,17,17,97.1,4,indicative,3,0
+PR.IR,Protect,Technology Infrastructure Resilience,12,12,87.5,3,indicative,3,0
+DE.CM,Detect,Continuous Monitoring,3,3,50.0,2,indicative,4,2
+DE.AE,Detect,Adverse Event Analysis,2,2,100.0,4,indicative,3,0
+RS.MA,Respond,Incident Management,2,2,75.0,3,indicative,3,0
+RS.AN,Respond,Incident Analysis,1,1,0.0,1,indicative,3,2
+RS.CO,Respond,Incident Response Reporting and Communication,1,1,100.0,4,indicative,3,0
+RS.MI,Respond,Incident Mitigation,1,1,50.0,2,indicative,3,1
+RC.RP,Recover,Incident Recovery Plan Execution,4,4,50.0,2,indicative,4,2
+RC.CO,Recover,Incident Recovery Communication,0,0,,,indicative,3,

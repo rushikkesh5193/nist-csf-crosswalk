@@ -1,0 +1,293 @@
+{
+ "_note": "SYNTHETIC DATA. The organisation is invented.",
+ "organisation": "ExampleOrg Pvt Ltd (synthetic)",
+ "default_target": 3,
+ "targets": {
+  "DE.CM": 4,
+  "RC.RP": 4,
+  "GV.SC": 2
+ },
+ "declared_tiers": {
+  "ID.IM": 3
+ },
+ "controls": {
+  "A.5.1": {
+   "status": "implemented"
+  },
+  "A.5.2": {
+   "status": "implemented"
+  },
+  "A.5.3": {
+   "status": "implemented"
+  },
+  "A.5.4": {
+   "status": "implemented"
+  },
+  "A.5.5": {
+   "status": "implemented"
+  },
+  "A.5.6": {
+   "status": "implemented"
+  },
+  "A.5.7": {
+   "status": "implemented"
+  },
+  "A.5.8": {
+   "status": "not_applicable",
+   "justification": "No in-house project delivery."
+  },
+  "A.5.9": {
+   "status": "implemented"
+  },
+  "A.5.10": {
+   "status": "implemented"
+  },
+  "A.5.11": {
+   "status": "implemented"
+  },
+  "A.5.12": {
+   "status": "implemented"
+  },
+  "A.5.13": {
+   "status": "implemented"
+  },
+  "A.5.14": {
+   "status": "implemented"
+  },
+  "A.5.15": {
+   "status": "implemented"
+  },
+  "A.5.16": {
+   "status": "implemented"
+  },
+  "A.5.17": {
+   "status": "implemented"
+  },
+  "A.5.18": {
+   "status": "implemented"
+  },
+  "A.5.19": {
+   "status": "implemented"
+  },
+  "A.5.20": {
+   "status": "implemented"
+  },
+  "A.5.21": {
+   "status": "implemented"
+  },
+  "A.5.22": {
+   "status": "implemented"
+  },
+  "A.5.24": {
+   "status": "implemented"
+  },
+  "A.5.25": {
+   "status": "implemented"
+  },
+  "A.5.26": {
+   "status": "partial"
+  },
+  "A.5.27": {
+   "status": "not_implemented"
+  },
+  "A.5.28": {
+   "status": "planned"
+  },
+  "A.5.29": {
+   "status": "planned"
+  },
+  "A.5.30": {
+   "status": "partial"
+  },
+  "A.5.31": {
+   "status": "implemented"
+  },
+  "A.5.32": {
+   "status": "implemented"
+  },
+  "A.5.33": {
+   "status": "implemented"
+  },
+  "A.5.34": {
+   "status": "implemented"
+  },
+  "A.5.35": {
+   "status": "implemented"
+  },
+  "A.5.36": {
+   "status": "implemented"
+  },
+  "A.5.37": {
+   "status": "implemented"
+  },
+  "A.6.1": {
+   "status": "implemented"
+  },
+  "A.6.2": {
+   "status": "implemented"
+  },
+  "A.6.4": {
+   "status": "implemented"
+  },
+  "A.6.5": {
+   "status": "implemented"
+  },
+  "A.6.6": {
+   "status": "implemented"
+  },
+  "A.6.7": {
+   "status": "implemented"
+  },
+  "A.6.8": {
+   "status": "implemented"
+  },
+  "A.7.1": {
+   "status": "implemented"
+  },
+  "A.7.2": {
+   "status": "implemented"
+  },
+  "A.7.3": {
+   "status": "implemented"
+  },
+  "A.7.4": {
+   "status": "partial"
+  },
+  "A.7.5": {
+   "status": "implemented"
+  },
+  "A.7.6": {
+   "status": "implemented"
+  },
+  "A.7.7": {
+   "status": "implemented"
+  },
+  "A.7.8": {
+   "status": "implemented"
+  },
+  "A.7.9": {
+   "status": "implemented"
+  },
+  "A.7.10": {
+   "status": "implemented"
+  },
+  "A.7.11": {
+   "status": "implemented"
+  },
+  "A.7.12": {
+   "status": "implemented"
+  },
+  "A.7.13": {
+   "status": "implemented"
+  },
+  "A.7.14": {
+   "status": "implemented"
+  },
+  "A.8.1": {
+   "status": "implemented"
+  },
+  "A.8.2": {
+   "status": "implemented"
+  },
+  "A.8.3": {
+   "status": "implemented"
+  },
+  "A.8.4": {
+   "status": "implemented"
+  },
+  "A.8.5": {
+   "status": "implemented"
+  },
+  "A.8.6": {
+   "status": "implemented"
+  },
+  "A.8.7": {
+   "status": "implemented"
+  },
+  "A.8.8": {
+   "status": "partial"
+  },
+  "A.8.9": {
+   "status": "implemented"
+  },
+  "A.8.10": {
+   "status": "implemented"
+  },
+  "A.8.11": {
+   "status": "implemented"
+  },
+  "A.8.12": {
+   "status": "implemented"
+  },
+  "A.8.13": {
+   "status": "implemented"
+  },
+  "A.8.14": {
+   "status": "implemented"
+  },
+  "A.8.15": {
+   "status": "partial"
+  },
+  "A.8.16": {
+   "status": "partial"
+  },
+  "A.8.17": {
+   "status": "implemented"
+  },
+  "A.8.18": {
+   "status": "implemented"
+  },
+  "A.8.19": {
+   "status": "implemented"
+  },
+  "A.8.20": {
+   "status": "implemented"
+  },
+  "A.8.21": {
+   "status": "implemented"
+  },
+  "A.8.22": {
+   "status": "implemented"
+  },
+  "A.8.23": {
+   "status": "implemented"
+  },
+  "A.8.24": {
+   "status": "implemented"
+  },
+  "A.8.25": {
+   "status": "implemented"
+  },
+  "A.8.26": {
+   "status": "implemented"
+  },
+  "A.8.27": {
+   "status": "implemented"
+  },
+  "A.8.28": {
+   "status": "implemented"
+  },
+  "A.8.29": {
+   "status": "implemented"
+  },
+  "A.8.30": {
+   "status": "not_applicable",
+   "justification": "No outsourced development."
+  },
+  "A.8.31": {
+   "status": "implemented"
+  },
+  "A.8.32": {
+   "status": "implemented"
+  },
+  "A.8.33": {
+   "status": "implemented"
+  },
+  "A.8.34": {
+   "status": "implemented"
+  },
+  "A.9.4.1": {
+   "status": "implemented"
+  }
+ }
+}
